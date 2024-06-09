@@ -1,0 +1,37 @@
+name: firebase_task_manager
+description: "A simple task management flutter app with user authentication and CRUD operations on tasks."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+ # All of the project's dependencies are mentioned below.
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  firebase_core: ^3.0.0
+  firebase_auth: ^5.0.0
+  cloud_firestore: ^5.0.0
+  flutter_local_notifications: ^17.1.2
+  timezone: ^0.9.3
+  provider: ^6.1.2
+  google_fonts: ^6.2.1
+  intl: ^0.19.0
+  shimmer: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/

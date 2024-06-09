@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712652517560",
+    "project_id": "fir-task-manager-3c0ae",
+    "storage_bucket": "fir-task-manager-3c0ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712652517560:android:dc4048e8cfcd516119444d",
+        "android_client_info": {
+          "package_name": "com.adesh.firebase_task_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH6boQu7Gxq_83josXa7yHhUkEE24JJXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
