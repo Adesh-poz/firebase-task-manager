@@ -41,10 +41,10 @@ android {
 
     signingConfigs {
         release {
-            keyAlias 'task_manager_key'
-            keyPassword 'adeshpoz'
-            storeFile file('C:\\Users\\adesh\\StudioProjects\\firebase_task_manager\\firestore_task_manager.keystore')
-            storePassword 'adeshpoz'
+            keyAlias 'insert_your_key'
+            keyPassword 'insert_your_pass'
+            storeFile file('C:\\Users\\%username%\\StudioProjects\\firebase_task_manager\\firestore_task_manager.keystore')
+            storePassword 'insert_your_store_pass'
         }
     }
 
